@@ -1,6 +1,6 @@
 # Currency-converter
 
-This allows you to collect the infomation regarding:
+This allows you to collect the infomation of:
   - the current rate of the currency
   - converting the currency into another
   - collecting information about symbols of various currencies
